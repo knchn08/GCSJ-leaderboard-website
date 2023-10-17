@@ -89,16 +89,19 @@ input[type=text], textarea, input[type=email], input[type=password], input[type=
 .leaderboard-results {
   text-align:left;
   border-collapse: collapse;
+  border-radius: 10px;
 }
 .leaderboard-results thead th {
   padding: 25px;
   color:#747474;
   font-size:14px;
   font-weight:bold;
+  background-color: #ccf7c8;
 }
+
 .leaderboard-results tbody td {
   padding:15px 25px;
-  background:#fffdfd;
+  /* background:#fffdfd; */
   font-size:16px;
   border-bottom:1px solid #232323;
   border-top: 0px solid #232323;
@@ -113,8 +116,8 @@ input[type=text], textarea, input[type=email], input[type=password], input[type=
 .leaderboard-results tbody tr {
   color:#747474;
 }
-.leaderboard-results tbody tr:first-child {
-  color:#34a853;
+#rankings tbody .completed {
+  color:#1ca841;
 }
 .leaderboard-results tbody span {
   font-weight:bold;
@@ -130,5 +133,12 @@ input[type=text], textarea, input[type=email], input[type=password], input[type=
   color:#747474;
 }
 
+#rankings tbody .even-row {
+  background-color: #f9f9f9; /* Light gray for even rows */
+}
+
+#rankings tbody .odd-row {
+  background-color: #e3e3e3; /* Lighter gray for odd rows */
+}
 
 /* /end Leaderboard Results */
