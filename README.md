@@ -15,3 +15,5 @@ This is a leaderboard website that displays your rankings and information about 
 
 ## License
 
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
