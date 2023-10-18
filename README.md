@@ -1,6 +1,7 @@
 # GCSJ-leaderboard-website
 
 This is a leaderboard website that displays your rankings and information about about your Google Cloud Study Jams Completions.
+Find the website here: https://knchn08.github.io/GCSJ-leaderboard-website/
 
 ## Table of Contents
 
