@@ -100,6 +100,24 @@
  },
  {
    "Rank": 12,
+   "StudentName": "Nikhil savita",
+   "CoursesCompleted": 4,
+   "SkillBadgesCompleted": 4,
+   "GenAIGameCompleted": 1,
+   "TotalCompletions": "Yes",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 13,
+   "StudentName": "Sneha Bhimappa Karkannavar",
+   "CoursesCompleted": 4,
+   "SkillBadgesCompleted": 4,
+   "GenAIGameCompleted": 1,
+   "TotalCompletions": "Yes",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 14,
    "StudentName": "Ashlesha Vajandar",
    "CoursesCompleted": 4,
    "SkillBadgesCompleted": 4,
@@ -108,7 +126,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 13,
+   "Rank": 15,
    "StudentName": "Varad Vinayak Parab",
    "CoursesCompleted": 4,
    "SkillBadgesCompleted": 4,
@@ -117,8 +135,17 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 14,
-   "StudentName": "Sneha Bhimappa Karkannavar",
+   "Rank": 16,
+   "StudentName": "Shrain Bhalchandra Dhavjekar",
+   "CoursesCompleted": 4,
+   "SkillBadgesCompleted": 3,
+   "GenAIGameCompleted": 1,
+   "TotalCompletions": "No",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 17,
+   "StudentName": "Reezann Roslyn Pereira",
    "CoursesCompleted": 3,
    "SkillBadgesCompleted": 3,
    "GenAIGameCompleted": 1,
@@ -126,8 +153,17 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 15,
-   "StudentName": "Shrain Bhalchandra Dhavjekar",
+   "Rank": 18,
+   "StudentName": "Navin Raghunath Morajkar",
+   "CoursesCompleted": 3,
+   "SkillBadgesCompleted": 2,
+   "GenAIGameCompleted": 1,
+   "TotalCompletions": "No",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 19,
+   "StudentName": "Sanketh Shenoy",
    "CoursesCompleted": 4,
    "SkillBadgesCompleted": 0,
    "GenAIGameCompleted": 1,
@@ -135,16 +171,16 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 16,
-   "StudentName": "Reezann Roslyn Pereira",
-   "CoursesCompleted": 2,
-   "SkillBadgesCompleted": 1,
-   "GenAIGameCompleted": 1,
+   "Rank": 20,
+   "StudentName": "Krupaksh Kashinath Shenvi Kenkre",
+   "CoursesCompleted": 4,
+   "SkillBadgesCompleted": 0,
+   "GenAIGameCompleted": 0,
    "TotalCompletions": "No",
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 17,
+   "Rank": 21,
    "StudentName": "Rafath Umaimath",
    "CoursesCompleted": 2,
    "SkillBadgesCompleted": 1,
@@ -153,17 +189,26 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 18,
-   "StudentName": "Navin Raghunath Morajkar",
-   "CoursesCompleted": 2,
-   "SkillBadgesCompleted": 1,
-   "GenAIGameCompleted": 0,
+   "Rank": 22,
+   "StudentName": "Bhargava Venkata Nimishakavi",
+   "CoursesCompleted": 3,
+   "SkillBadgesCompleted": 0,
+   "GenAIGameCompleted": 1,
    "TotalCompletions": "No",
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 19,
+   "Rank": 23,
    "StudentName": "Harikrishnan V",
+   "CoursesCompleted": 3,
+   "SkillBadgesCompleted": 0,
+   "GenAIGameCompleted": 1,
+   "TotalCompletions": "No",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 24,
+   "StudentName": "Travis Samson Fernandes",
    "CoursesCompleted": 2,
    "SkillBadgesCompleted": 0,
    "GenAIGameCompleted": 1,
@@ -171,8 +216,44 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 20,
-   "StudentName": "Nikhil savita",
+   "Rank": 25,
+   "StudentName": "Deepak Ramaram Borana",
+   "CoursesCompleted": 3,
+   "SkillBadgesCompleted": 0,
+   "GenAIGameCompleted": 0,
+   "TotalCompletions": "No",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 26,
+   "StudentName": "Varad M Kelkar",
+   "CoursesCompleted": 2,
+   "SkillBadgesCompleted": 0,
+   "GenAIGameCompleted": 1,
+   "TotalCompletions": "No",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 27,
+   "StudentName": "Sanketh Shenoy",
+   "CoursesCompleted": 3,
+   "SkillBadgesCompleted": 0,
+   "GenAIGameCompleted": 0,
+   "TotalCompletions": "No",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 28,
+   "StudentName": "Shaurya Mukul Awasthi",
+   "CoursesCompleted": 2,
+   "SkillBadgesCompleted": 0,
+   "GenAIGameCompleted": 1,
+   "TotalCompletions": "No",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 29,
+   "StudentName": "Ridhi Kumari Jha",
    "CoursesCompleted": 2,
    "SkillBadgesCompleted": 0,
    "GenAIGameCompleted": 0,
@@ -180,7 +261,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 21,
+   "Rank": 30,
    "StudentName": "Sohan Takkekar",
    "CoursesCompleted": 2,
    "SkillBadgesCompleted": 0,
@@ -189,7 +270,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 22,
+   "Rank": 31,
    "StudentName": "Ashwin Emmanuel Mascarenhas",
    "CoursesCompleted": 1,
    "SkillBadgesCompleted": 0,
@@ -198,8 +279,8 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 23,
-   "StudentName": "Sanketh Shenoy",
+   "Rank": 32,
+   "StudentName": "Kanchan Abhay Patil",
    "CoursesCompleted": 1,
    "SkillBadgesCompleted": 0,
    "GenAIGameCompleted": 1,
@@ -207,8 +288,8 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 24,
-   "StudentName": "Shaurya Mukul Awasthi",
+   "Rank": 33,
+   "StudentName": "Vicky M. Govekar",
    "CoursesCompleted": 1,
    "SkillBadgesCompleted": 0,
    "GenAIGameCompleted": 1,
@@ -216,16 +297,25 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 25,
-   "StudentName": "Bhargava Venkata Nimishakavi",
-   "CoursesCompleted": 1,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 1,
+   "Rank": 34,
+   "StudentName": "Namrah Juweria Sayed",
+   "CoursesCompleted": 0,
+   "SkillBadgesCompleted": 2,
+   "GenAIGameCompleted": 0,
    "TotalCompletions": "No",
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 26,
+   "Rank": 35,
+   "StudentName": "Dion Anthony Moraes",
+   "CoursesCompleted": 2,
+   "SkillBadgesCompleted": 0,
+   "GenAIGameCompleted": 0,
+   "TotalCompletions": "No",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 36,
    "StudentName": "Shreyash Deepak Gawas",
    "CoursesCompleted": 1,
    "SkillBadgesCompleted": 0,
@@ -234,7 +324,16 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 27,
+   "Rank": 37,
+   "StudentName": "P Anurag",
+   "CoursesCompleted": 1,
+   "SkillBadgesCompleted": 0,
+   "GenAIGameCompleted": 0,
+   "TotalCompletions": "No",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 38,
    "StudentName": "Katia Vaz",
    "CoursesCompleted": 1,
    "SkillBadgesCompleted": 0,
@@ -243,107 +342,8 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 28,
-   "StudentName": "Aidan Antonio Amaral",
-   "CoursesCompleted": 1,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 0,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
-   "Rank": 29,
-   "StudentName": "Ashwin Joseph Monteiro",
-   "CoursesCompleted": 1,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 0,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
-   "Rank": 30,
-   "StudentName": "Travis Samson Fernandes",
-   "CoursesCompleted": 1,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 0,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
-   "Rank": 31,
-   "StudentName": "Krupaksh Kashinath Shenvi Kenkre",
-   "CoursesCompleted": 1,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 0,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
-   "Rank": 32,
-   "StudentName": "Vrashab Timmannavar",
-   "CoursesCompleted": 0,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 1,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
-   "Rank": 33,
-   "StudentName": "Kanchan Abhay Patil",
-   "CoursesCompleted": 1,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 0,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
-   "Rank": 34,
-   "StudentName": "Vicky M. Govekar",
-   "CoursesCompleted": 1,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 0,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
-   "Rank": 35,
-   "StudentName": "Varad M Kelkar",
-   "CoursesCompleted": 0,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 1,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
-   "Rank": 36,
-   "StudentName": "Sanketh Shenoy",
-   "CoursesCompleted": 1,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 0,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
-   "Rank": 37,
-   "StudentName": "Namrah Juweria Sayed",
-   "CoursesCompleted": 0,
-   "SkillBadgesCompleted": 1,
-   "GenAIGameCompleted": 0,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
-   "Rank": 38,
-   "StudentName": "Dion Anthony Moraes",
-   "CoursesCompleted": 1,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 0,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
    "Rank": 39,
-   "StudentName": "Kartikeya Saxena",
+   "StudentName": "KARTHIK S",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
    "GenAIGameCompleted": 1,
@@ -352,6 +352,51 @@
  },
  {
    "Rank": 40,
+   "StudentName": "Aidan Antonio Amaral",
+   "CoursesCompleted": 1,
+   "SkillBadgesCompleted": 0,
+   "GenAIGameCompleted": 0,
+   "TotalCompletions": "No",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 41,
+   "StudentName": "Saanvi Bandekar",
+   "CoursesCompleted": 1,
+   "SkillBadgesCompleted": 0,
+   "GenAIGameCompleted": 0,
+   "TotalCompletions": "No",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 42,
+   "StudentName": "Ashwin Joseph Monteiro",
+   "CoursesCompleted": 1,
+   "SkillBadgesCompleted": 0,
+   "GenAIGameCompleted": 0,
+   "TotalCompletions": "No",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 43,
+   "StudentName": "Vrashab Timmannavar",
+   "CoursesCompleted": 0,
+   "SkillBadgesCompleted": 0,
+   "GenAIGameCompleted": 1,
+   "TotalCompletions": "No",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 44,
+   "StudentName": "Kartikeya Saxena",
+   "CoursesCompleted": 0,
+   "SkillBadgesCompleted": 0,
+   "GenAIGameCompleted": 1,
+   "TotalCompletions": "No",
+   "RedemptionStatus": "Yes"
+ },
+ {
+   "Rank": 45,
    "StudentName": "Aditi Chodankar",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -360,7 +405,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 41,
+   "Rank": 46,
    "StudentName": "Aryan Sahai",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -369,16 +414,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 42,
-   "StudentName": "P Anurag",
-   "CoursesCompleted": 0,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 0,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
-   "Rank": 43,
+   "Rank": 47,
    "StudentName": "Samarth Shrikant Madalageri",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -387,7 +423,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 44,
+   "Rank": 48,
    "StudentName": "Alicia Nicole Gonsalves",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -396,7 +432,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 45,
+   "Rank": 49,
    "StudentName": "Shivam P Prabhu Konkar",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -405,16 +441,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 46,
-   "StudentName": "KARTHIK S",
-   "CoursesCompleted": 0,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 0,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
-   "Rank": 47,
+   "Rank": 50,
    "StudentName": "NIKHIL KUMAR",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -423,7 +450,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 48,
+   "Rank": 51,
    "StudentName": "Shaun Abraham",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -432,7 +459,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 49,
+   "Rank": 52,
    "StudentName": "Sayhan Ali",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -441,7 +468,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 50,
+   "Rank": 53,
    "StudentName": "Shriya Bhat",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -450,7 +477,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 51,
+   "Rank": 54,
    "StudentName": "Aditee Suresh Dessai",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -459,7 +486,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 52,
+   "Rank": 55,
    "StudentName": "Tejas balu kale",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -468,7 +495,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 53,
+   "Rank": 56,
    "StudentName": "Mrunal Desai",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -477,7 +504,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 54,
+   "Rank": 57,
    "StudentName": "Paulo Pereira",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -486,25 +513,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 55,
-   "StudentName": "Saanvi Bandekar",
-   "CoursesCompleted": 0,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 0,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
-   "Rank": 56,
-   "StudentName": "Ridhi Kumari Jha",
-   "CoursesCompleted": 0,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 0,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
-   "Rank": 57,
+   "Rank": 58,
    "StudentName": "Rohit Singh Rana",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -513,7 +522,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 58,
+   "Rank": 59,
    "StudentName": "Aditya Ajit Gaude",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -522,7 +531,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 59,
+   "Rank": 60,
    "StudentName": "Shane Frank Remedios",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -531,7 +540,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 60,
+   "Rank": 61,
    "StudentName": "Yash Shaw",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -540,7 +549,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 61,
+   "Rank": 62,
    "StudentName": "Jimil Mandani",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -549,7 +558,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 62,
+   "Rank": 63,
    "StudentName": "Rohit Binoj",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -558,7 +567,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 63,
+   "Rank": 64,
    "StudentName": "Shaikh Mohammed Hussain",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -567,7 +576,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 64,
+   "Rank": 65,
    "StudentName": "Neel Nivas Prabhudesai",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -576,7 +585,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 65,
+   "Rank": 66,
    "StudentName": "Sana Shaikh",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -585,7 +594,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 66,
+   "Rank": 67,
    "StudentName": "Prathiksha Gajula",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -594,7 +603,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 67,
+   "Rank": 68,
    "StudentName": "Wendy Kim Simoes",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -603,7 +612,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 68,
+   "Rank": 69,
    "StudentName": "Derron Lawrence Rodrigues",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -612,7 +621,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 69,
+   "Rank": 70,
    "StudentName": "Junaid Nagarchi",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -621,7 +630,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 70,
+   "Rank": 71,
    "StudentName": "Sakshi Anil Patil",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -630,7 +639,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 71,
+   "Rank": 72,
    "StudentName": "Gautham Krishna",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -639,7 +648,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 72,
+   "Rank": 73,
    "StudentName": "Khushi Kiran Naik",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -648,7 +657,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 73,
+   "Rank": 74,
    "StudentName": "Gino Jesus Barros",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -657,7 +666,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 74,
+   "Rank": 75,
    "StudentName": "Goutam Santosh Powar",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -666,7 +675,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 75,
+   "Rank": 76,
    "StudentName": "Chaitanya Chanekar",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -675,7 +684,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 76,
+   "Rank": 77,
    "StudentName": "Annia Marrina Fernandes",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -684,7 +693,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 77,
+   "Rank": 78,
    "StudentName": "Deepali Praful Mahakod",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -693,7 +702,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 78,
+   "Rank": 79,
    "StudentName": "Shruti Santosh Powar",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -702,7 +711,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 79,
+   "Rank": 80,
    "StudentName": "Avishi",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -711,7 +720,7 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 80,
+   "Rank": 81,
    "StudentName": "Vansh Rupesh",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
@@ -720,17 +729,8 @@
    "RedemptionStatus": "Yes"
  },
  {
-   "Rank": 81,
-   "StudentName": "GAVIN ALEIXO RODRIGUES",
-   "CoursesCompleted": 0,
-   "SkillBadgesCompleted": 0,
-   "GenAIGameCompleted": 0,
-   "TotalCompletions": "No",
-   "RedemptionStatus": "Yes"
- },
- {
    "Rank": 82,
-   "StudentName": "Deepak Ramaram Borana",
+   "StudentName": "GAVIN ALEIXO RODRIGUES",
    "CoursesCompleted": 0,
    "SkillBadgesCompleted": 0,
    "GenAIGameCompleted": 0,
