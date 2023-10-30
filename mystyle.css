@@ -6,6 +6,7 @@
 }
 body {
   background:#f1f3f4;
+  
 }
 
 .GCSJ-title{
@@ -167,14 +168,14 @@ input[type=text], textarea, input[type=email], input[type=password], input[type=
 }
 
 .progress-moved .progress-bar {
-  width: 100%; 
-  background-color: #f8988f;  
+  width: 50%; 
+  background-color: #f68757;  
   animation: progressAnimation 6s;
 }
 
 @keyframes progressAnimation {
-  0%   { width: 0%; background-color: #f4a39c;}
-  100% { width: 100%; background-color: #f8988f; }
+  0%   { width: 0%; background-color: #f8b69a;}
+  100% { width: 50%; background-color: #f68757; }
 }
 
 .progressbar li {
@@ -182,7 +183,7 @@ input[type=text], textarea, input[type=email], input[type=password], input[type=
   list-style: none;
   display: inline-block;
   /* width: 30.33%; */
-  width: 100%; 
+  width: 47%; 
   position: relative;
   text-align: right;
   cursor: pointer;
@@ -192,3 +193,15 @@ h1, p{
   color:#8f8f8f
 }
 
+.congrats {
+  line-height: 1.5;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  white-space: nowrap;
+  overflow: hidden;
+  margin: 20px;
+  font-size: 2rem;
+  border-block: 3px solid rgb(235, 231, 18); 
+  color:#b2b23a 
+}
