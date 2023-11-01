@@ -168,14 +168,14 @@ input[type=text], textarea, input[type=email], input[type=password], input[type=
 }
 
 .progress-moved .progress-bar {
-  width: 71%; 
+  width: 71.6%; 
   background-color: #f68757;  
   animation: progressAnimation 6s;
 }
 
 @keyframes progressAnimation {
   0%   { width: 0%; background-color: #f8b69a;}
-  100% { width: 71%; background-color: #f68757; }
+  100% { width: 71.6%; background-color: #f68757; }
 }
 
 .progressbar li {
