@@ -15,7 +15,7 @@ $(document).ready(function() {
       row.append('<td>' + item.TotalCompletions + '</td>');
       row.append('<td>' + item.RedemptionStatus + '</td>');
 
-      if (item.TotalCompletions === "Yes"){
+      if (item.TotalCompletions === "Yes" && item.Rank <= 40){
         row.addClass('completed');
       }
       // Apply alternate row colors
